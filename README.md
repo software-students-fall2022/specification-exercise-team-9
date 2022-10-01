@@ -7,8 +7,11 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Winston Zhang - https://github.com/Midas0231
+
 Adam Sidibe - https://github.com/sidibee
+
 Alejandro Olazabal - https://github.com/aleolazabal
+
 John Kolibachuk - https://github.com/jkolib
 
 ## Stakeholders
