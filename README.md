@@ -32,5 +32,6 @@ A mobile dining app designed for NYU students and staff to order and pickup food
 ## Activity Diagrams
 Related user story: As a student, I want to be able to see my pick up time so that I can better plan my day out.
 ![alt text](https://github.com/software-students-fall2022/specification-exercise-team-9/blob/main/project1_activity_1.png?raw=true)
+
 Related user story: As a student, I want to be able to report incorrect orders so that I can get a refund.
 ![alt text](https://github.com/software-students-fall2022/specification-exercise-team-9/blob/main/project1_activity_2.png?raw=true)
