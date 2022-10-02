@@ -43,8 +43,10 @@ Related user story: As a student, I want to be able to see my pick up time so th
 Related user story: As a student, I want to be able to report incorrect orders so that I can get a refund.
 ![diagram2](project1_activity_2.png)
 
-Wireframe Diagram:
+## Wireframe Diagram
+
 <https://www.figma.com/file/G8z5quUxJE9Hy8W64XgLWl/NYU-Eats-App-Wireframe?node-id=555373%3A451>
 
-Clickable Prototype:
+## Clickable Prototype
+
 <https://www.figma.com/file/J3GowtOiAkI3NnebqVKojm/NYU-Eats-App-Clickable-Prototype-2?node-id=555373%3A451>
