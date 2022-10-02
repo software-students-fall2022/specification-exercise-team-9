@@ -6,13 +6,13 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Winston Zhang - https://github.com/Midas0231
+Winston Zhang - <https://github.com/Midas0231>
 
-Adam Sidibe - https://github.com/sidibee
+Adam Sidibe - <https://github.com/sidibee>
 
-Alejandro Olazabal - https://github.com/aleolazabal
+Alejandro Olazabal - <https://github.com/aleolazabal>
 
-John Kolibachuk - https://github.com/jkolib
+John Kolibachuk - <https://github.com/jkolib>
 
 ## Stakeholders
 
@@ -36,8 +36,15 @@ A mobile dining app designed for NYU students and staff to order and pickup food
 10. As a student, I want to be able order multiple meals at once so that I can get food for my friend.
 
 ## Activity Diagrams
+
 Related user story: As a student, I want to be able to see my pick up time so that I can better plan my day out.
 ![diagram1](project1_activity_1.png)
 
 Related user story: As a student, I want to be able to report incorrect orders so that I can get a refund.
 ![diagram2](project1_activity_2.png)
+
+Wireframe Diagram:
+<https://www.figma.com/file/G8z5quUxJE9Hy8W64XgLWl/NYU-Eats-App-Wireframe?node-id=555373%3A451>
+
+Clickable Prototype:
+<https://www.figma.com/file/J3GowtOiAkI3NnebqVKojm/NYU-Eats-App-Clickable-Prototype-2?node-id=555373%3A451>
