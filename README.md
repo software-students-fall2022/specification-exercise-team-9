@@ -16,7 +16,7 @@ John Kolibachuk - <https://github.com/jkolib>
 
 ## Stakeholders
 
-Interviewed: Andy Huang, Nicola Rios
+Interviewed: Andy Huang, Nicola Rios  
 Goals:
 
 - reduce wait time at dining halls, sometimes food takes too long
