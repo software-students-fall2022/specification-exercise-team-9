@@ -63,4 +63,4 @@ Related user story: As a student, I want to be able to report incorrect orders s
 
 ## Clickable Prototype
 
-<https://www.figma.com/file/J3GowtOiAkI3NnebqVKojm/NYU-Eats-App-Clickable-Prototype-2?node-id=555373%3A451>
+<https://www.figma.com/proto/J3GowtOiAkI3NnebqVKojm/NYU-Eats-App-Clickable-Prototype-2?page-id=555373%3A451&node-id=555373%3A451&viewport=422%2C172%2C0.1&scaling=scale-down&starting-point-node-id=555373%3A452&show-proto-sidebar=1>
